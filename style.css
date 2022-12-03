@@ -1,0 +1,34 @@
+*{
+    padding: 0;margin: 0;
+    /* background-color: black; */
+
+
+}
+
+.container{
+
+}
+
+
+.butt{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.butt ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+.butt ul button{
+    height: 100px;
+    width: 200px;
+    cursor: pointer;
+    margin: 40px;
+}
